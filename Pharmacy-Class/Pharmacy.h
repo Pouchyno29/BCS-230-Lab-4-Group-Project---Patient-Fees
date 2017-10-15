@@ -30,6 +30,7 @@ class Pharmacy
         double getMedicationPrice() const;
     //Function to set the person's first name.
     //Postcondition: This function will retrieve medication's price
+    
         double medicationCharge(int mNum)const;
     //Function to set the person's first name.
     //Postcondition: This function will set the medication's charge
